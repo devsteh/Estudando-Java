@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d03ba68-21f3-41b3-a6a9-153945cb3234" name="Changes" comment="Conceituação, criação de variáveis e atribuição de valores">
-      <change afterPath="$PROJECT_DIR$/src/javapt2/Main.java" afterDir="false" />
+    <list default="true" id="6d03ba68-21f3-41b3-a6a9-153945cb3234" name="Changes" comment="Atríbuição de tipos de dados com variáveis">
+      <change afterPath="$PROJECT_DIR$/src/javapt3/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,12 +38,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.javapt2.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javapt1.Main" />
@@ -94,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657850348189</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Atríbuição de tipos de dados com variáveis">
+      <created>1657852835554</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657852835554</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -110,6 +117,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Conceituação, criação de variáveis e atribuição de valores" />
-    <option name="LAST_COMMIT_MESSAGE" value="Conceituação, criação de variáveis e atribuição de valores" />
+    <MESSAGE value="Atríbuição de tipos de dados com variáveis" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atríbuição de tipos de dados com variáveis" />
   </component>
 </project>
