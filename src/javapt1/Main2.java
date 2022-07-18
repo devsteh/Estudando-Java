@@ -1,6 +1,6 @@
-package javapt2;
+package javapt1;
 
-public class Main {
+public class Main2 {
     public static void main(String[] args) {
 
         //Atribuindo tipos de dados junto de variáveis.

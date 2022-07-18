@@ -1,6 +1,6 @@
 package javapt1;
 
-public class Main {
+public class Main1 {
     public static void main(String[] args) {
 
         //Tipos de criação de variáveis - Linhas comentadas = exemplos de atribuições incorretas.

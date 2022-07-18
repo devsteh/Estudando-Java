@@ -1,6 +1,6 @@
-package javapt4;
+package javapt1;
 
-public class Main {
+public class Main4 {
     public static void main(String[] args) {
 
         //Casting =  Transformação de uma determinada variável de tipo menos específico para um tipo que seja mais específico (ou adequado).
