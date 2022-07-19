@@ -1,4 +1,4 @@
-package javapt1;
+package conceitos_basicos;
 
 public class Main3 {
     public static void main(String[] args) {
