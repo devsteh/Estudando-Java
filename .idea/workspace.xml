@@ -4,18 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d03ba68-21f3-41b3-a6a9-153945cb3234" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/metodos/Calculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/metodos/Emprestimo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/metodos/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/metodos/Mensagem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sobrecarga/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sobrecarga/Quadrilatero.java" afterDir="false" />
+    <list default="true" id="6d03ba68-21f3-41b3-a6a9-153945cb3234" name="Changes" comment="Atualização de arquivos, métodos, retornos e sobrecarga.">
+      <change afterPath="$PROJECT_DIR$/src/arrays/Ex1OrdemInversa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/Ex2Consoantes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/Ex3NumsAleatorios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops_estruturas_repeticao/Ex1NomeIdade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops_estruturas_repeticao/Ex2Nota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops_estruturas_repeticao/Ex3MaiorMedia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops_estruturas_repeticao/Ex4ParImpar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops_estruturas_repeticao/Ex5Tabuada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops_estruturas_repeticao/Ex6Fatorial.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javapt1/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conceitos_basicos/Main1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javapt1/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conceitos_basicos/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javapt1/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conceitos_basicos/Main3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javapt1/Main4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conceitos_basicos/Main4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,19 +46,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
-  <component name="RunManager" selected="Application.sobrecarga.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="metodos.Main" />
+}]]></component>
+  <component name="RunManager" selected="Application.Ex5Tabuada">
+    <configuration name="Desafio3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.Desafio3" />
       <module name="comecando-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="metodos.*" />
+          <option name="PATTERN" value="arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="conceitos_basicos.Main2" />
+    <configuration name="Ex1OrdemInversa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.Ex1OrdemInversa" />
       <module name="comecando-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="conceitos_basicos.*" />
+          <option name="PATTERN" value="arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="conceitos_basicos.Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="conceitos_basicos.Main1" />
+    <configuration name="Ex2Consoantes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.Ex2Consoantes" />
       <module name="comecando-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="conceitos_basicos.*" />
+          <option name="PATTERN" value="arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +95,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sobrecarga.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sobrecarga.Main" />
+    <configuration name="Ex3NumsAleatorios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.Ex3NumsAleatorios" />
       <module name="comecando-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sobrecarga.*" />
+          <option name="PATTERN" value="arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex5Tabuada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops_estruturas_repeticao.Ex5Tabuada" />
+      <module name="comecando-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loops_estruturas_repeticao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,8 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.sobrecarga.Main" />
-        <item itemvalue="Application.conceitos_basicos.Main1" />
+        <item itemvalue="Application.Ex5Tabuada" />
+        <item itemvalue="Application.Desafio3" />
+        <item itemvalue="Application.Ex3NumsAleatorios" />
+        <item itemvalue="Application.Ex2Consoantes" />
+        <item itemvalue="Application.Ex1OrdemInversa" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658107028407</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Atualização de arquivos, métodos, retornos e sobrecarga.">
+      <created>1658196249318</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1658196249318</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -177,6 +202,7 @@
     <MESSAGE value="Usos de operadores aritméticos com variáveis." />
     <MESSAGE value="Entendendo o casting" />
     <MESSAGE value="Variáveis, tipos de dados operadores,casting." />
-    <option name="LAST_COMMIT_MESSAGE" value="Variáveis, tipos de dados operadores,casting." />
+    <MESSAGE value="Atualização de arquivos, métodos, retornos e sobrecarga." />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualização de arquivos, métodos, retornos e sobrecarga." />
   </component>
 </project>
